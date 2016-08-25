@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![](http://i.imgur.com/DUiL9yn.png)
 
 # React/Sass/Redux Boilerplate
@@ -31,3 +32,7 @@ To view your project, go to: [http://localhost:3000/](http://localhost:3000/)
 - [Twitter](https://twitter.com/bucky_roberts)
 - [Google+](https://plus.google.com/+BuckyRoberts)
 - [reddit](https://www.reddit.com/r/thenewboston/)
+=======
+# react-redux
+First React Redux
+>>>>>>> f386d2074317b01ac5e418df7c74bee5219abd3f
